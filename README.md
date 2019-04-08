@@ -1,2 +1,1 @@
-# moving_js
-This site is for people who want to find movie
+주작없는 영화의 평점과 묵직한 팩트로 작성된 리뷰를 확인 할 수 있으며, 영화를 사랑하는 사람들과의 커뮤니케이션도 함께 이루어지는 이곳 ! 무빙제이에스!
